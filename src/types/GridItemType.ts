@@ -1,5 +1,5 @@
 export type GridItemType = {
-  items: number | null,
+  item: number | null,
   shown: boolean,
   permanentShown: boolean,
 }
